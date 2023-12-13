@@ -7,7 +7,6 @@ public class Main {
 
     private static final Random random = new Random(System.currentTimeMillis());
      
-
     enum Agent {
         A,
         B
